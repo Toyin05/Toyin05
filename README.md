@@ -1,6 +1,6 @@
 # Hi there, I'm Toyin 👋
 
-I'm a **Full-Stack Developer** passionate about building clean, scalable, and user-friendly web applications. I work across the entire stack — from designing intuitive interfaces to implementing robust backend systems and APIs.
+I'm a **Full-Stack Developer** passionate about building clean, scalable, and user-friendly web applications. I work across the entire stack. From designing intuitive interfaces to implementing robust backend systems and APIs.
 
 ## 🛠️ Tech Stack
 
@@ -25,17 +25,17 @@ I'm a **Full-Stack Developer** passionate about building clean, scalable, and us
 
 ## 🌱 Currently Exploring
 
-Smart contracts, Web3 development, and emerging cloud technologies. I document my learning journey publicly to stay accountable and help others growing in the same space.
+AI Automation, Web3 development, and emerging cloud technologies. I document my learning journey publicly to stay accountable and help others growing in the same space.
 
 ## 💡 About Me
 
-Beyond coding, I'm passionate about **developer education** — breaking down complex technical ideas into clear, relatable explanations. I believe in building in public, learning in public, and growing in public.
+Beyond coding, I'm passionate about **developer education**, breaking down complex technical ideas into clear, relatable explanations. I believe in building in public, learning in public, and growing in public.
 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/toyin-ojumoro-25b394269)
 - 🐦 [Twitter/X](https://x.com/toyin_bolu)
-- 📧 Open to collaborations, internships, and Web3 bounties
+- 📧 Open to collaborations, contracts, internships, and Web3 bounties
 
 ---
 
